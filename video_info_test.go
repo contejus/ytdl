@@ -86,7 +86,7 @@ func TestVideoInfo(t *testing.T) {
 			description: "SUBSCRIBE: http://www.youtube.com/saturninefilms \r\n\r\nEven Obama has taken a stand against freedom on this issue: http://www.huffingtonpost.com/2010/09...",
 		},
 		// Age restricted video
-		// https://github.com/rylio/ytdl/pull/109
+		// https://github.com/contejus/ytdl/pull/109
 		{
 			videoID:     "z0NfI2NeDHI",
 			title:       `Rammstein - Radio (Official Video)`,
